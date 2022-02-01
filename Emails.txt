@@ -1,0 +1,5 @@
+test@test.com
+fake@fake.com
+@blerg
+Test@testerson.ca
+@@@@wrongemail
